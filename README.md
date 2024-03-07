@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salam! 👋
 
 ![](https://komarev.com/ghpvc/?username=TasbehTakrore&color=blueviolet)
 
