@@ -1,7 +1,5 @@
 ### Salam! 👋
 
-![](https://komarev.com/ghpvc/?username=TasbehTakrore&color=blueviolet)
-
 <!--
 **TasbehTakrore/TasbehTakrore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
